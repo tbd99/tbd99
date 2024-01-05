@@ -1,7 +1,7 @@
 # tbd99
 # Hello, I'm Tiger 👋
 
-## Data Analyst pursuing the Microsoft PL-300: Microsoft Power BI Data Analyst qualification 
+## Data analyst pursuing the Microsoft PL-300: Microsoft Power BI Data Analyst qualification 
 
 Welcome to my GitHub page! I am a data analyst and chemistry master's graduate with a diverse skill set, having also completed the AiCore Immersive Programme for Data Analysis. 
 
